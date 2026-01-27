@@ -11,10 +11,21 @@
 
 ## Exercises
 
-### Exercise 1: Integer Exploration
-Create variables of different integer types and explore their limits.
-- Use `i8::MAX`, `u32::MIN`, etc.
-- Try to cause an overflow and see what happens
+### Exercise 1: The Overflow Detective ✅
+**Problem:** Given an `i32` value, determine the smallest signed integer type (`i8`, `i16`, or `i32`) that can hold it.
+
+```rust
+smallest_type(100)   → "i8"
+smallest_type(-200)  → "i16"
+smallest_type(40000) → "i32"
+```
+
+**Learned:**
+- Integer type limits with `i8::MAX`, `i16::MIN`, etc.
+- Type casting with `as i32`
+- `.abs()` for absolute value
+- `if` as an expression (no `return` needed, no semicolon on value)
+- Shadowing is block-scoped
 
 ### Exercise 2: Type Annotations
 Practice scenarios where type inference works vs where you need annotations.

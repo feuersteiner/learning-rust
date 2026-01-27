@@ -4,6 +4,14 @@ A structured, hands-on curriculum to learn Rust from scratch and become autonomo
 
 ---
 
+## My Background
+
+- **C#**: Grew up with it - familiar with strong typing, structs, enums, generics
+- **C**: College - understand memory concepts (stack vs heap, pointers)
+- **TypeScript**: Current daily driver - appreciate type safety and good tooling
+
+---
+
 ## 📚 How This Learning Loop Works
 
 1. **Read the concept** - Each section introduces a Rust concept with key ideas to understand

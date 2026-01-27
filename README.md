@@ -498,7 +498,7 @@ cargo build --release
 
 Use this to track your progress:
 
-- [ ] 01 - Hello World & Cargo
+- [x] 01 - Hello World & Cargo
 - [ ] 02 - Variables & Mutability
 - [ ] 03 - Data Types
 - [ ] 04 - Functions

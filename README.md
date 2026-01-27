@@ -499,7 +499,7 @@ cargo build --release
 Use this to track your progress:
 
 - [x] 01 - Hello World & Cargo
-- [ ] 02 - Variables & Mutability
+- [x] 02 - Variables & Mutability
 - [ ] 03 - Data Types
 - [ ] 04 - Functions
 - [ ] 05 - Control Flow

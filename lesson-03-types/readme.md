@@ -27,10 +27,21 @@ smallest_type(40000) → "i32"
 - `if` as an expression (no `return` needed, no semicolon on value)
 - Shadowing is block-scoped
 
-### Exercise 2: Type Annotations
-Practice scenarios where type inference works vs where you need annotations.
-- Parse a string to a number (requires annotation!)
-- Work with numeric literals
+### Exercise 2: The Parser's Dilemma ✅
+**Problem:** Given a string input, identify what type it represents by attempting to parse it.
+
+```rust
+identify_value("42")    → "integer"
+identify_value("3.14")  → "float"
+identify_value("true")  → "boolean"
+identify_value("hello") → "string"
+```
+
+**Learned:**
+- `str::parse::<T>()` requires explicit type annotation (turbofish!)
+- `Result` type and `.is_ok()` for checking success
+- `if` without `else` evaluates to `()` — can't be used as a return value
+- Order of checks matters for correct type detection
 
 ### Exercise 3: Tuples
 Create and destructure tuples.

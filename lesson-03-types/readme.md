@@ -43,10 +43,19 @@ identify_value("hello") → "string"
 - `if` without `else` evaluates to `()` — can't be used as a return value
 - Order of checks matters for correct type detection
 
-### Exercise 3: Tuples
-Create and destructure tuples.
-- Access elements by index
-- Use pattern matching to unpack
+### Exercise 3: Coordinate Chaos ✅
+**Problem:** Calculate Euclidean distance and midpoint between two 2D points using tuples.
+
+```rust
+distance((0.0, 0.0), (3.0, 4.0)) → 5.0
+midpoint((0.0, 0.0), (4.0, 4.0)) → (2.0, 2.0)
+```
+
+**Learned:**
+- Tuple destructuring: `let (x, y) = point;`
+- Returning tuples from functions
+- `.powi(2)` for integer exponents on floats
+- `assert_eq!` macro for testing
 
 ### Exercise 4: Arrays
 Work with fixed-size arrays.

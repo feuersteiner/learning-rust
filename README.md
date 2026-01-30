@@ -502,7 +502,7 @@ Use this to track your progress:
 - [x] 02 - Variables & Mutability
 - [x] 03 - Data Types
 - [x] 04 - Functions
-- [-] 05 - Control Flow
+- [x] 05 - Control Flow
 - [ ] 06 - Ownership
 - [ ] 07 - References & Borrowing
 - [ ] 08 - Slices

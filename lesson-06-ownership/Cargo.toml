@@ -1,6 +1,0 @@
-[package]
-name = "lesson-06-ownership"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]

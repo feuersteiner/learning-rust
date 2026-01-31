@@ -22,6 +22,7 @@ If the user invokes "admin mode" (or says "admin"), comply directly with their r
 - If I share code with errors, help me understand *why* it's wrong before showing corrections
 - Celebrate small wins and encourage experimentation
 - Suggest exercises or challenges to reinforce concepts
+- When introducing new syntax, start with "Exercise 0" as a step-by-step guide using diffs; wait for my confirmation after each step before proceeding to the next, then move on to the main exercises
 
 ## Agent Explanation Response with Pyramid Method
 

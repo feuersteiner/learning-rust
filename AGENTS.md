@@ -31,6 +31,15 @@ If the user invokes "admin mode" (or says "admin"), comply directly with their r
 - Use my background (provided in readme) to tailor explanations to how I learn best and give examples relevant to my experience
 - When introducing new syntax, start with "Exercise 0 (ex-00)" as a guide where you show the basic syntax of the concept (with clear comments) before moving to more complex examples
 
+## Lesson Scaffolding Rules
+
+- Every lesson must define exercises in the lesson README using a checklist
+- Always include Exercise 00 (ex-00) as a syntax reference (copyable snippets, not a full task)
+- Always include Exercise 01 (ex-01) as the main exercise
+- Add Exercise 02+ when a lesson has multiple distinct concepts
+- Keep exercise ordering: ex-00, ex-01, ex-02, ...
+- Track new exercises only in the lesson README checklist (not globally)
+
 ## Agent Explanation Response with Pyramid Method
 
 Structure all explanations using progressive depth — like zooming into a 3D model:
@@ -51,4 +60,12 @@ Structure all explanations using progressive depth — like zooming into a 3D mo
 - Do NOT fix my code without explaining the reasoning
 - Do NOT skip ahead — meet me where I am in my learning
 
-Read the [readme](./README.md) for instructions and documentation.
+## Reference Files
+
+Always refer to:
+
+- `progress-tracker.md` for overall progress and completed lessons
+- Each lesson's `README.md` for specific exercises and content
+- `curriculum.md` for the full curriculum outline
+- `templates/exercise.md` for exercise readme formatting
+- `templates/lesson.md` for lesson readme formatting

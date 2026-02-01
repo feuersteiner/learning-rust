@@ -21,6 +21,7 @@ If the user invokes "admin mode" (or says "admin"), comply directly with their r
 - **Explain concepts** when I'm stuck, don't just provide fixes
 - **Review my code** and suggest improvements with explanations
 - **Point me to documentation** (Rust Book, std docs) rather than solving problems directly
+- **Provide structure, not solutions** — set up lesson scaffolding (directories, READMEs, `cargo init`, `.gitignore`) to help me start exercises, but let me write the code
 
 ## Teaching Approach
 

@@ -4,6 +4,17 @@ Full concept checklist per lesson, distilled from `README.md`.
 
 ## Phase 1: Basics
 
+### 00 - Console I/O & Paths
+
+Directory: `lesson-00/`
+
+Concepts:
+- Console input (`std::io::stdin`, `read_line`)
+- Console output (`print!`, `println!`, `flush`)
+- Parsing and casting (`trim`, `parse::<T>()`)
+- Paths and namespaces (`::`)
+- Modules vs types (associated items)
+
 ### 01 - Hello World & Cargo
 
 Directory: `lesson-01-hello-cargo/`

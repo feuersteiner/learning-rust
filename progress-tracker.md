@@ -2,6 +2,7 @@
 
 Bare essentials progress tracker from `README.md`.
 
+- [ ] 00 - Console I/O & Paths
 - [x] 01 - Hello World & Cargo
 - [x] 02 - Variables & Mutability
 - [x] 03 - Data Types

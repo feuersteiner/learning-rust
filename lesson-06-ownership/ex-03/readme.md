@@ -1,7 +1,7 @@
 # Exercise 03 - Unique Words Frequency
 
 ## Goal
-Practice ownership with `String`, `&str`, and `HashMap` while processing input at scale.
+Practice ownership with `String`, `&str`, and `HashMap` while processing input and counting word frequencies.
 
 ## Starter
 
@@ -11,7 +11,7 @@ Practice ownership with `String`, `&str`, and `HashMap` while processing input a
 ## Steps
 
 1) Read all input into a single `String`, then split by whitespace.
-2) Parse `n`, then consume exactly `n` words into a `HashMap<String, usize>`.
+2) Count all tokens as words in a `HashMap<String, usize>`.
 3) Print the unique count and the top 3 most frequent words.
 4) Tie-break by lexicographic order ascending for equal counts.
 

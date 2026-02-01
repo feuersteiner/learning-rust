@@ -1,31 +1,23 @@
-# 🦀 Rust Learning Curriculum
+# Rust Learning Curriculum
 
-A structured, hands-on curriculum to learn Rust from scratch and become autonomous in building real projects.
-
----
+A structured, hands-on curriculum to learn Rust from scratch.
 
 ## My Background
 
-- **C#**: Grew up with it - familiar with strong typing, structs, enums, generics
-- **C**: College - understand memory concepts (stack vs heap, pointers)
-- **TypeScript**: Current daily driver - appreciate type safety and good tooling
+- **C#**: Worked on Windows and Unity projects for years. Familiar with OOP, garbage collection, and async/await, latest strongly typed language I've used professionally.
+- **C**: College - understand memory concepts (stack vs heap, pointers), programmed a lot with C, and have a good grasp of memory concepts and dynamic programming with it, always use for explaining memory in Rust.
+- **TypeScript**: Current daily driver - worked extensively with node/bun and react/next/svelte frontends. Comfortable with types, use to explain bundling and production concepts.
 
----
-
-## 📚 How This Learning Loop Works
+## How This Learning Loop Works
 
 1. **Read the concept** - Each section introduces a Rust concept with key ideas to understand
-2. **Navigate to the exercise directory** - Each concept has a dedicated `XX-concept-name/` folder
+2. **Navigate to the exercise directory** - Each concept has a dedicated `lesson-##-concept-name/` folder
 3. **Ask the AI agent for an exercise** - Request a practical exercise for that concept
 4. **Implement the solution** - Write the code yourself, struggle, learn
 5. **Get feedback** - Ask the AI to review your solution and explain improvements
 6. **Move to the next concept** - Once comfortable, proceed to the next topic
 
-> 💡 **Tip**: Don't rush. Rust has a steep learning curve, but understanding each concept deeply will pay off.
-
----
-
-## 🗺️ Curriculum Overview
+## Curriculum Overview
 
 | Phase | Topics | Goal |
 |-------|--------|------|

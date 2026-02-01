@@ -60,6 +60,11 @@ Common patterns:
 3) Add numeric parsing and simple math.
 4) Handle invalid input gracefully (repeat prompt or show an error).
 
+## Exercise Checklist
+
+- [ ] ex-00: Syntax Reference (read + copy snippets)
+- [ ] ex-01: Tiny CLI (name, age, decimal)
+
 ## Exercises
 
 1) Add a prompt for a whole number, parse to `i32`, and print its square.

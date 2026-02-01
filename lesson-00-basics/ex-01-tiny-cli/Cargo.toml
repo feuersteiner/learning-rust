@@ -1,5 +1,5 @@
 [package]
-name = "lesson-00"
+name = "ex-01-tiny-cli"
 version = "0.1.0"
 edition = "2024"
 

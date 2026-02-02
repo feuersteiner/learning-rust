@@ -2,13 +2,13 @@
 
 Bare essentials progress tracker from `README.md`.
 
-- [ ] 00 - Console I/O & Paths
+- [x] 00 - Console I/O & Paths
 - [x] 01 - Hello World & Cargo
 - [x] 02 - Variables & Mutability
 - [x] 03 - Data Types
 - [x] 04 - Functions
 - [x] 05 - Control Flow
-- [-] 06 - Ownership
+- [x] 06 - Ownership
 - [ ] 07 - References & Borrowing
 - [ ] 08 - Slices
 - [ ] 09 - Structs
